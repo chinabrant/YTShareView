@@ -16,4 +16,6 @@ shareModel.img = @"分享的图片";
 }];
 ```
 
+#### 效果图
 
+![](images/screenshot))
